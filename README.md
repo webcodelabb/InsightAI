@@ -215,7 +215,7 @@ MIT License - see LICENSE file for details
 
 ## 🆘 Support
 
-For support, email support@insightai.com or create an issue in the repository.
+For support, email webcodelabb@gmail.com or create an issue in the repository.
 
 ---
 

@@ -6,7 +6,7 @@
 
 ### Core Functionality
 - 🔐 **JWT Authentication** - Secure user management
-- 📊 **CSV Data Upload** - Drag & drop interface with preview
+- 📊 **CSV Data Upload** - Drag & drop interface with previews
 - 🤖 **AutoML Pipeline** - Classification, Regression, Clustering
 - 📈 **Interactive Visualizations** - Charts, confusion matrices, ROC curves
 - 🧠 **AI-Generated Insights** - GPT-4 powered analysis

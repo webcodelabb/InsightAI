@@ -2,7 +2,7 @@
 
  **Production-ready AI SaaS Starter Kit** for data science teams, analytics dashboards, and business intelligence platforms.
 
-## ✨ Features
+## Features
 
 ### Core Functionality
 - 🔐 **JWT Authentication** - Secure user management

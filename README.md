@@ -1,6 +1,6 @@
 # InsightAI - AI-Powered Data Analytics SaaS Platform
 
-🚀 **Production-ready AI SaaS Starter Kit** for data science teams, analytics dashboards, and business intelligence platforms.
+ **Production-ready AI SaaS Starter Kit** for data science teams, analytics dashboards, and business intelligence platforms.
 
 ## ✨ Features
 
